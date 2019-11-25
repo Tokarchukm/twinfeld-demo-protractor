@@ -14,4 +14,4 @@ npm install -g mocha
 
 npm install
 
-protractor twin/conf.js
+protractor conf.js
