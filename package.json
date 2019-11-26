@@ -1,0 +1,19 @@
+{
+  "name": "twin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "update": "webdriver-manager update",
+    "driver.start": "webdriver-manager start",
+    "test": "protractor conf.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
