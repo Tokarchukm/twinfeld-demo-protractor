@@ -3,7 +3,9 @@
 
 
 npm install 
+
 npm run update
+
 npm run driver.start
 
 npm test
