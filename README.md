@@ -2,16 +2,8 @@
 # demo  tests using protractor
 
 
-npm install -g protractor
+npm install 
+npm run update
+npm run driver.start
 
-webdriver-manager update
-
-webdriver-manager start
-
-
-
-npm install -g mocha
-
-npm install
-
-protractor conf.js
+npm test
